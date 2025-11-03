@@ -15,7 +15,7 @@ int main(void) {
     float valor; // declarando variavel valor(quantidade que deverá ser paga)
 
 
-    //leitura do valor da despesa
+    //leitura quantidade de dias trabalhados
     printf("Quantidade de dias trabalhados? \n");
     scanf("%d", &diasTrabalhados);
 
